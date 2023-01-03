@@ -16,7 +16,7 @@ stock_multi = stock_price * stock_price2
 print(stock_multi)
 #나누기
 stock_price = 2000
-stock_price2 = 2200
+stock_price2 = 22000
 stock_divi = stock_price / stock_price2
 print(stock_divi)
 stock_divi2 = stock_price // stock_price2
